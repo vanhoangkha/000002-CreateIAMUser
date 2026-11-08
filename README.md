@@ -1,4 +1,4 @@
-# 👤 Create IAM User
+# Create IAM User
 
 Learn how to create and manage IAM users with proper security practices.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series, designe
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000002-CreateIAMUser/)**
+**[Start the workshop](https://vanhoangkha.github.io/000002-CreateIAMUser/)**
 
 ## Prerequisites
 
